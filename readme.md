@@ -1,8 +1,19 @@
 # HEAD IA Family workshop
 
-February 2026
-
 This folder contains all documentation about the IA Family workshop.
 
-Intervenant : Matteo Loglio
-Assistants : Pablo Bello, Vytas
+## Schedule
+February 23 – March 13, 2026 
+
+Mid-crit concept and first prototype test: February 27, 2026
+
+Mid-crit and prototype test: March 6, 2026
+
+Final jury: March 13, 2026
+
+
+## Professors
+
+Matteo Loglio (oio studio) – February 24–28, 2025
+
+Vytas Jankauskas & Pablo Bellon
