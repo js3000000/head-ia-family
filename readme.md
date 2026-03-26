@@ -1,4 +1,4 @@
-# HEAD IA Family workshop
+# HEAD AI Family workshop
 
 This folder contains all documentation about the IA Family workshop.
 
